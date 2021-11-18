@@ -1,2 +1,2 @@
-# Forward-Kinematics
-simple forward kinematics simulator for Computer Animations
+# COMP477_A1
+Codebase of A1 for COMP477
